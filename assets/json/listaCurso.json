@@ -1,0 +1,153 @@
+[
+    {
+        "name": "listaExperiencia",
+        "columns": [
+            {
+                "nombre": "Gensystems S.A",
+                "pais": "Ecuador",
+                "instituto": "Especialista técnico en Soluciones MPS.",
+                "fechaFin": "Contratado el 10 de enero 2019. (Laborando Actualmente)."
+            },
+            {
+                "nombre": "Bazar, Papelería y Copias. PUNTO EXACTO",
+                "pais": "Ecuador",
+                "instituto": "Diseñador gráfico / Atención al cliente / Servicio técnico.",
+                "fechaFin": "Contratado el 13 de noviembre 2017. (4 meses laborados)."
+            },
+            {
+                "nombre": "Tecnology Consulting Solution, C.A. (TCS).",
+                "pais": "Venezuela",
+                "instituto": "Consultor Staff en Proyectos TI / Administrador de Base de datos",
+                "fechaFin": "Contratado el 5 de mayo 2017. (6 meses laborados)."
+            },
+            {
+                "nombre": "Especialista en Soporte Técnico",
+                "pais": "Venezuela",
+                "instituto": "Servicios Creativos S.A",
+                "fechaFin": "Contratado el 7 de noviembre 2015. (1 año y 5 meses laborados)."
+            },
+            {
+                "nombre": "Soluciones Alegajos C.A",
+                "pais": "Venezuela",
+                "instituto": "Analista Programador.",
+                "fechaFin": "Contratado el 29 de diciembre 2014. (6 meses laborados)."
+            }
+        ]
+
+    },
+    {
+        "name": "listaEstudios",
+        "columns": [
+            {
+                "nombre": "Universidad Nacional Experimental Rómulo Gallegos (UNERG)",
+                "pais": "Venezuela",
+                "instituto": "Título Obtenido:",
+                "fechaFin": "Ingeniero en Informática. año 2017."
+            },
+            {
+                "nombre": "Instituto Universitario de Tecnología Elías Calixto Pompa (IUTECP)",
+                "pais": "Ecuador",
+                "instituto": "Título Obtenido:",
+                "fechaFin": "TSU Administración mención Informática. año 2015."
+            },
+            {
+                "nombre": "Colegio Pacairigua Dos",
+                "pais": "Venezuela",
+                "instituto": "Título Obtenido:",
+                "fechaFin": "Bachiller en ciencias. año 2011."
+            }
+        ]
+
+    },
+    {
+        "name": "listaCursos",
+        "columns": [
+            {
+                "nombre": "Ingeniero en Redes",
+                "pais": "Venezuela",
+                "instituto": "Instituto de Capacitación Técnica Profesional KEYS.",
+                "fechaFin": "Duración 15 meses. Culminado"
+            },
+            {
+                "nombre": "PHP Nivel 1",
+                "pais": "Venezuela",
+                "instituto": "Instituto Benllisoft.",
+                "fechaFin": "Duración 16 horas. Culminado"
+            },
+            {
+                "nombre": "Informática Forense nivel Medio",
+                "pais": "Venezuela",
+                "instituto": "Colegio de ingenieros de Venezuela",
+                "fechaFin": "Duración 36 horas. Culminado 2014"
+            },
+            {
+                "nombre": "Informática Forense nivel 1",
+                "pais": "Venezuela",
+                "instituto": "Colegio de ingenieros de Venezuela",
+                "fechaFin": "Duración 24 horas. Culminado 2013"
+            }
+        ] 
+    },
+    {
+        "name": "listaLenguajes",
+        "columns": [
+            {
+                "nombre": "Español",
+                "porcentaje": "100"
+            },
+            {
+                "nombre": "Ingles",
+                "porcentaje": "60"
+            }
+        ] 
+    },
+    {
+        "name": "listaSkills",
+        "columns": [
+            {
+                "nombre": "HTML",
+                "porcentaje": "95",
+                "color": "color-html"
+            },
+            {
+                "nombre": "CSS",
+                "porcentaje": "90"
+            },
+            {
+                "nombre": "JS",
+                "porcentaje": "60",
+                "color": "color-js"
+            },
+            {
+                "nombre": "SQL",
+                "porcentaje": "50",
+                "color": "color-sql"
+            }
+        ] 
+    },
+    {
+        "name": "listaOtros",
+        "columns": [
+            {
+                "nombre": "Diseño UI/UX",
+                "porcentaje": "70"
+            },
+            {
+                "nombre": "Figma",
+                "porcentaje": "60"
+            },
+            {
+                "nombre": "Bootstrap",
+                "porcentaje": "50"
+            },
+            {
+                "nombre": "Photoshop e Illustrator",
+                "porcentaje": "50"
+            },
+            {
+                "nombre": "Microsoft Office",
+                "porcentaje": "80"
+            }
+        ] 
+    }
+]
